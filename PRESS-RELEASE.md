@@ -81,37 +81,3 @@ What our happy customers have to say:
 Download this app and start sharing your location with your friends and family now!
 
 
-
-
-<!-- 
-Some additional language...
- -->
- 
-PROJECT SAPPHIRE
-Know that your loved ones are safe while they are in transit. 
-
-Project Sapphire is a location-based communication app that makes planning group outings easier, while also helping friends and family make sure their loved ones reach their destinations safely.
-
-----------------
-
-Running late for a dinner? Walking home alone? Wondering why your kids aren't home from school yet?
-
-With this two-way communication app, you can easily see the traveling routes of your friends or family. Whether your spouse is going for a run, or you're waiting for your kids to get home from school, or you're ordering appetizers for a group of friends, this location-based app will help you feel assured that the people you care about arrive at their destinations safe and on time.
-
-"We originally built Project Sapphire to address the anxiousness we felt when our loved ones were walking home alone. What we didn't expect was how useful this app would be for so many other things - like coordinating meetups with friends, or letting others know when were stuck in traffic. Project Sapphire has made our lives easier, and we hope it wil make your life easier too!" - Co-founder, Project Sapphire
-
-Project Sapphire is available on the web and in the app store. Sending your location to a friend or family member is a button click away! 
-
-----------------
-
-What our happy customers have to say:
-
-"With Project Sapphire I know exactly when my friends will arrive. No more messaging back and forth. I love it!" - Alex, age 26, New York
-
-"I used to worry that my kids were safe as they walked from school to our local YMCA. Now I know where they are and when they arrived!" - Susan, age 34, Minnesota
-
-----------------
-
-Download this app and start sharing your location with your friends and family now!
-
-
